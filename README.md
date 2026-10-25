@@ -2,7 +2,7 @@
 
 **Rufus** 4.15 burns bootable media. rufus download, download rufus, rufus windows 11, rufus iso, rufus usb, rufus windows 10, rufus.ie.
 
-<img width="600" height="600" alt="images1" src="https://github.com/user-attachments/assets/156c9f95-319d-42ef-b2d2-5c6e2119123c" />
+<img width="200" height="200" alt="images1" src="https://github.com/user-attachments/assets/156c9f95-319d-42ef-b2d2-5c6e2119123c" />
 <img width="1060" height="790" alt="images2" src="https://github.com/user-attachments/assets/2c40da8c-aecd-482c-b484-d9ecf9d0feaa" />
 
 ## What's new in 4.15
