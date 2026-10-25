@@ -1,0 +1,3 @@
+CHANGELOG Rufus-Windows
+4.15 2026-06-30
+Stamp rev-t6pk7r-20261025
